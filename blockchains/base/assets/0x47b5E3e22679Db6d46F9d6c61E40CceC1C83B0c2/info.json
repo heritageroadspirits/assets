@@ -3,9 +3,14 @@
   "type": "ERC20",
   "symbol": "STAVE",
   "decimals": 18,
-  "description": "STAVE loyalty token for barrel aged Spirits.",
+  "description": "STAVE loyalty token for Heritage Road Spirits.",
   "website": "https://www.heritageroadspirits.com",
   "explorer": "https://etherscan.io/token/0x47b5E3e22679Db6d46F9d6c61E40CceC1C83B0c2",
   "status": "active",
-  "id": "0x47b5E3e22679Db6d46F9d6c61E40CceC1C83B0c2"
+  "id": "0x47b5E3e22679Db6d46F9d6c61E40CceC1C83B0c2",
+  "links": [
+    { "name": "website", "url": "https://www.heritageroadspirits.com" },
+    { "name": "github", "url": "https://github.com/heritageroadspirits" }
+  ],
+  "tags": ["loyalty"]
 }
