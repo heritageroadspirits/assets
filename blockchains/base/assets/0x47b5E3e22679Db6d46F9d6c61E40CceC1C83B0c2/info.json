@@ -9,16 +9,8 @@
   "status": "active",
   "id": "0x47b5E3e22679Db6d46F9d6c61E40CceC1C83B0c2",
   "links": [
-    {
-      "name": "github",
-      "url": "https://github.com/heritageroadspirits"
-    },
-    {
-      "name": "docs",
-      "url": "https://www.heritageroadspirits.com"
-    }
+    { "name": "github", "url": "https://github.com/heritageroadspirits" },
+    { "name": "docs", "url": "https://www.heritageroadspirits.com" }
   ],
-  "tags": [
-    "defi"
-  ]
+  "tags": ["defi"]
 }
